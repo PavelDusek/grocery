@@ -1,2 +1,2 @@
 # grocery
-grocery store data extraction and analytics
+Grocery store data extraction and analytics done in python.
